@@ -76,6 +76,9 @@ cursor: pointer;
     font-weight: bold;
 }
 
+.hidden {
+    display: none;
+}
 
 @media (min-width: 768px) {
     main {
